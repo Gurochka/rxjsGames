@@ -1,5 +1,6 @@
 import React from 'react'
+import Miner from './containers/Miner'
 
 export default () => ( 
-	<h1>rxJs games</h1>
+	<Miner />
 )
